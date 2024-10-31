@@ -5,7 +5,8 @@
     "plans": "Plans",
     "testimonials": "Testimonials",
     "login": "Login",
-    "signUp": "Sign up"
+    "signUp": "Sign up",
+    "download": "Download"
   },
   "pageNotFound": {
     "title": "Page not found",

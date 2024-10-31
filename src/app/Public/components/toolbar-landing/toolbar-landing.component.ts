@@ -45,4 +45,6 @@ export class ToolbarLandingComponent {
   pageSignUpForm(){
     this.router.navigateByUrl('/sign-up');
   }
+
+    protected readonly toolbar = toolbar;
 }
